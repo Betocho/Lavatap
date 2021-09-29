@@ -1,0 +1,7 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ERP/CRM(Dolibarr)"
+    id="id-8e2ce64525fa49a98621270b76d3f412">
+  <properties
+      key="Costo Mensual"/>
+</archimate:ApplicationComponent>
